@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServerdaMafia.aternos.me",
+    "ip": "hilsha.aternos.host",
     "port": 14541,
     "version": "",
     "try-creative": false
