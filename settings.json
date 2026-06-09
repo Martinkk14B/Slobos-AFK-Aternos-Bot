@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gurizadadogrosso.aternos.me",
-    "port": 30575,
+    "ip": "ServerdaMafia.aternos.me",
+    "port": 14541,
     "version": "",
     "try-creative": false
   },
